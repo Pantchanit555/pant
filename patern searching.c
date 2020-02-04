@@ -13,7 +13,7 @@ main(){
 		}
 		if(j==strlen(wdCheck)){
 			n++;
-			printf("%d\n",i);
+			//printf("%d\n",i);
 		}
 	}
 	printf("%d",n);
